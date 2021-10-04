@@ -1,2 +1,2 @@
-## Тестовое задание Сбербанк Лизинг.
-Необходимо определить цены предметов лизинга по их описанию из входной таблицы.
+## Test Task Sberbank Leasing.
+Determine the prices of leasing items according to their description from the input table.
